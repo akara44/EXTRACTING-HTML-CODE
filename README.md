@@ -1,1 +1,2 @@
-# Url'i girilen sitenin HTML kodlarını çeker.
+# Url'i girilen sitenin HTML kodlarını çekerr
+
